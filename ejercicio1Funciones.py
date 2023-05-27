@@ -31,9 +31,10 @@ while op!= 3:
         num2 = int(input("Ingrese segundo valor: "))
         restar(num1,num2)
     elif op == 3:
-        print("Nos vemos.")
+        
         break
     else:
+
         print("Valor no valido, intente nuevamente.")
 
 
